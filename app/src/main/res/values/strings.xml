@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tag</string>
+
+    <string name="name">Login</string>
+    <!--string for edittext hint in password-->
+    <string name="mobile">Enter password</string>
+    <!--string for edittext hint in email-->
+
+</resources>
